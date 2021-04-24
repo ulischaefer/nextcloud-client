@@ -1,7 +1,6 @@
 These are the files that are needed for installing the latest nextcloud-client on Slackware-current.
 
-Start sbopkg
-
+Start sbopkg<br>
 Search for nextcloud-client package
 
 Select Custom (Customize the .info or SlackBuild)
